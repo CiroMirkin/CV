@@ -1,11 +1,11 @@
 # Ciro Mirkin
 ciromirkin@gmail.com
 
-Desarrollador web Front-End con 3 años de experiencia creando aplicaciones web. Al trabajar tengo en cuenta principios de diseño y no me encierro en una unica forma de hacer las cosas, entiendo que no hay una solucion magica para todo y que muchas veces toca aprender cosas nuevas para resolver problemas nuevos.
+Desarrollador web Front-End con 3 años de experiencia creando aplicaciones web. Al trabajar tengo en cuenta los objetivos del cliente, principios de diseño y planteo varias formas de hacer las cosas buscando la mejor opción para solucionar los problemas unicos de cada cliente.
 
 ## Experiencia
 
-Tengo esperiencia siguendo flujos de trabajo en Kanban y Git en integracion con GitHub, usando aplicaciónes como Trello y [...]
+Tengo esperiencia siguendo flujos de trabajo con Trello y Git en integración con GitHub.
 
 ### Memotest
 
@@ -25,13 +25,15 @@ En el desarrollo utilice TypeScript y React en la parte funcional, para la reali
 
 Como persona estas son las caracteristicas que creo más me definen y podria resaltar
 
-* Soy Organizado y ordenado, si es posible me gusta prepararme con tiempo y saber lo que va a suceder.
+* Soy Organizado y ordenado, si es posible me gusta prepararme con tiempo para afrontar lo que va a suceder.
 
 * Tengo Constancia, al tener un objetivo me organizo y no desisto hasta optener un resultado optimo.
 
-## Libros
+## Educación
 
-Compre y lei libros como: Código limpio, Desarrollo ágil esencial y Arquitectura limpia de Rober C.Martin al igual que El programador pragmatico de David Thomas y Andrew Hunt junto con Código sostenible de Carlos Blé Jurado.
+Estudio de forma autodidacta hace 3 años obteniendo los mejores resultados.
+
+Para complementar mi estudio compre y lei libros como: Código limpio, Desarrollo ágil esencial y Arquitectura limpia de Rober C.Martin al igual que El programador pragmatico de David Thomas y Andrew Hunt junto con Código sostenible de Carlos Blé Jurado.
 
 ## Idiomas
 
