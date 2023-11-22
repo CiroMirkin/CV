@@ -9,9 +9,9 @@ Tengo esperiencia siguendo flujos de trabajo con Trello y Git en integración co
 
 ### Memotest
 
-Un juego de memoria web donde puedes jugar con varias tematicas las veces que quieras sin aburrirte ya puedes generar un nuevo tablero cada vez que ganas.
+Un juego de memoria web donde puedes jugar con varias tematicas las veces que quieras sin aburrirte ya que puedes generar un nuevo tablero cada vez que ganas.
 
-En el desarrollo utilice TypeScript, implemente el patrón arquitectonico MVC y cree mi propia REST API para separar las tematicas del resto de la aplicación buscando que no afecta las recuencia en que estas cambian.
+En el desarrollo utilice TypeScript, implemente el patrón arquitectonico MVC y cree mi propia REST API para separar las tematicas del resto de la aplicación buscando que esta no sea afectada por la recuencia en cambian.
 
 ### Boar
 
@@ -19,15 +19,15 @@ Una aplicación web para gestionar tareas como Trello que permite crear y person
 
 Realice este proyecto tres veces hasta lograr un resultado profecional, obteniendo progreciones en cada nuevo intento.
 
-En el desarrollo utilice TypeScript y React en la parte funcional, para la realizar TDD utilice Vitest en conjunto con Jest.
+En el desarrollo utilice TypeScript y React en la parte funcional, ademas para hacer TDD utilice Vitest en conjunto con Jest.
 
 ## Habilidades blandas
 
-Como persona estas son las caracteristicas que creo más me definen y podria resaltar
+* Soy Organizado y ordenado,
 
-* Soy Organizado y ordenado, si es posible me gusta prepararme con tiempo para afrontar lo que va a suceder.
+* constante y
 
-* Tengo Constancia, al tener un objetivo me organizo y no desisto hasta optener un resultado optimo.
+* mantengo la calma al estar bajo preción.
 
 ## Educación
 
