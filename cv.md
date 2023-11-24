@@ -5,15 +5,17 @@ Desarrollador web Front-End con 3 años de experiencia creando aplicaciones web.
 
 ## Experiencia
 
-Tengo esperiencia siguendo flujos de trabajo con Trello y Git en integración con GitHub.
+Tengo experiencia siguendo flujos de trabajo con Trello y Git en integración con GitHub.
 
-### Memotest
+### Proyectos realizados
+
+#### Memotest
 
 Un juego de memoria web donde puedes jugar con varias tematicas las veces que quieras sin aburrirte ya que puedes generar un nuevo tablero cada vez que ganas.
 
 En el desarrollo utilice TypeScript, implemente el patrón arquitectonico MVC y cree mi propia REST API para separar las tematicas del resto de la aplicación buscando que esta no sea afectada por la recuencia en cambian.
 
-### Boar
+#### Boar
 
 Una aplicación web para gestionar tareas como Trello que permite crear y personalizar tanto tareas como columnas para adaptarce a un flujo de trabajo.
 
@@ -23,9 +25,9 @@ En el desarrollo utilice TypeScript y React en la parte funcional, ademas para h
 
 ## Habilidades blandas
 
-* Soy Organizado y ordenado,
+* Soy Ordenado,
 
-* constante y
+* diciplinado y
 
 * mantengo la calma al estar bajo preción.
 
