@@ -3,7 +3,7 @@ ciromirkin@gmail.com
 # Ciro Mirkin
 ## Desarrollador web Front-End
 
-+3 años de experiencia creando aplicaciones web. Tengo en cuenta los objetivos del cliente. Defino opciones apoyándome en principios de diseño para encontrar la mejor solución.
++3 años de experiencia creando aplicaciones web. Tengo en cuenta los objetivos del cliente al resolver problemas. Defino opciones apoyándome en principios de diseño buscando la mejor solución acorde al contexto.
 
 ## Experiencia
 
