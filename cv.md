@@ -19,9 +19,9 @@ Utilice TypeScript, HTML, CSS y el patrón arquitectónico MVC.
 
 Aplicación web para gestionar tareas como Trello que puede adaptarse al flujo de trabajo del usuario. Hice TDD en los casos de uso para reducir la probabilidad de errores. Seguí un flujo de integración continua.
 
-Realice tres veces este proyecto. Primero con JavaScript. Segundo con TypeScript y una arquitectura limpia.
-
 Utilice TypeScript, CSS Y React. Vitest para TDD.
+
+Realice tres veces este proyecto. Primero con JavaScript. Segundo con TypeScript y una arquitectura limpia.
 
 ## Educación
 
