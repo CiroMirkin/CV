@@ -1,4 +1,4 @@
-ciromirkin@gmail.com
+ciromirkin@gmail.com - [LinkedIn](https://www.linkedin.com/in/ciro-mirkin-775a85278) - [GitHub](https://github.com/CiroMirkin)
 
 # Ciro Mirkin
 ## Desarrollador web Front-End
