@@ -15,6 +15,8 @@ Desarrolle mi propia REST API para separar las temáticas del juego buscando que
 
 Utilice TypeScript, HTML, CSS y el patrón arquitectónico MVC.
 
+[Web](https://cm-memotest.netlify.app/) - [Repositorio](https://github.com/CiroMirkin/memotest_TS)
+
 ### Boar
 
 Aplicación web para gestionar tareas como Trello que puede adaptarse al flujo de trabajo del usuario. Hice TDD en los casos de uso para reducir la probabilidad de errores. Seguí un flujo de integración continua.
@@ -22,6 +24,8 @@ Aplicación web para gestionar tareas como Trello que puede adaptarse al flujo d
 Utilice TypeScript, CSS Y React. Vitest para TDD.
 
 Realice tres veces este proyecto. Primero con JavaScript. Segundo con TypeScript y una arquitectura limpia.
+
+[Repositorio](https://github.com/CiroMirkin/Boar)
 
 ## Educación
 
