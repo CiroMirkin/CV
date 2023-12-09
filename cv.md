@@ -31,6 +31,8 @@ Realice tres veces este proyecto. Primero con JavaScript. Segundo con TypeScript
 
 Estudio de forma autodidacta hace +3 años obteniendo los mejores resultados.
 
+Al estudiar teoría escribo un apunte. Público [los apuntes](https://github.com/CiroMirkin/Apuntes). Escribo mínimo un apunte por mes.
+
 ### Libros leídos y estudiados
 
 * Código limpio, Desarrollo ágil esencial y Arquitectura limpia de Rober C.Martin.
