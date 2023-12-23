@@ -19,19 +19,21 @@ Utilice TypeScript, HTML, CSS y el patrón arquitectónico MVC.
 
 ### Boar
 
-Aplicación web para gestionar tareas como Trello que puede adaptarse al flujo de trabajo del usuario. Hice TDD en los casos de uso para reducir la probabilidad de errores. Seguí un flujo de integración continua.
+Aplicación web para gestionar tareas en tu trabajo como Trello. La aplicación puede adaptarse a su forma de trabajo. Seguí un flujo de integración continua e hice TDD en el dominio para reducir la probabilidad de errores.
 
-Utilice TypeScript, CSS Y React. Vitest para TDD.
+Utilice TypeScript, CSS, React y Vitest.
 
-Realice tres veces este proyecto. Primero con JavaScript. Segundo con TypeScript y una arquitectura limpia.
+Realice tres veces este proyecto. Primero con JavaScript y luego con TypeScript creando una arquitectura limpia.
 
-[Repositorio](https://github.com/CiroMirkin/Boar)
+[Web](https://cm-boar.netlify.app/) - [Repositorio](https://github.com/CiroMirkin/Boar)
 
 ## Educación
 
-Estudio de forma autodidacta hace +3 años obteniendo los mejores resultados.
+Estudio de forma autodidacta hace +3 años obteniendo resultados.
 
-Al estudiar teoría escribo un apunte. Público [los apuntes](https://github.com/CiroMirkin/Apuntes). Escribo mínimo un apunte por mes.
+El primer año aprendi JavaScript y desarrolle proyectos. En el segundo estudie TypeScript y Rect, arquitectura y diseño de software.
+
+Al estudiar teoría escribo un apunte, mínimo uno por mes. Público [los apuntes](https://github.com/CiroMirkin/Apuntes) en GitHub.
 
 ### Libros leídos y estudiados
 
