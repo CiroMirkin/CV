@@ -45,6 +45,8 @@ Al estudiar teoría escribo un apunte, mínimo uno por mes. Público [los apunte
 
 JavaScript - TypeScript - React - Git - GitHub - HTML - CSS - Vitest - Jest - Figma
 
+Diseño de software - Arquitectura - Pragmatismo
+
 ## Idiomas
 
 Español (Nativo) - Ingles (B1)
