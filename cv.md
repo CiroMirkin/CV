@@ -21,7 +21,7 @@ Utilice TypeScript, HTML, CSS y el patrón arquitectónico MVC.
 
 Aplicación web para gestionar tareas en tu trabajo como Trello. La aplicación puede adaptarse a su forma de trabajo. 
 
-Escribi un documento de producto para guiar el desarrollo, seguí un flujo de integración continua e hice TDD en el dominio para reducir la probabilidad de errores. Realice tres veces este proyecto. Primero con JavaScript y luego con TypeScript creando una arquitectura limpia. Esta es la tercera vez.
+Escribí un documento de producto para guiar el desarrollo, seguí un flujo de integración continua e hice TDD en el dominio para reducir la probabilidad de errores. Realice tres veces este proyecto. Primero con JavaScript y luego con TypeScript creando una arquitectura limpia. Esta es la tercera vez.
 
 Utilice TypeScript, CSS, React y Vitest.
 
@@ -31,7 +31,7 @@ Utilice TypeScript, CSS, React y Vitest.
 
 Estudio de forma autodidacta hace +3 años obteniendo resultados.
 
-El primer año aprendi JavaScript y desarrolle proyectos. En el segundo estudie TypeScript y Rect, arquitectura y diseño de software.
+El primer año aprendí JavaScript y desarrollé proyectos. En el segundo estudié TypeScript y React, arquitectura y diseño de software.
 
 Al estudiar teoría escribo un apunte, mínimo uno por mes. Público [los apuntes](https://github.com/CiroMirkin/Apuntes) en GitHub.
 
