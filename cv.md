@@ -21,19 +21,19 @@ Utilice TypeScript, HTML, CSS y el patrón arquitectónico MVC.
 
 Aplicación web para gestionar tareas en tu trabajo como Trello. La aplicación puede adaptarse a su forma de trabajo. 
 
-Escribí un documento de producto para guiar el desarrollo, seguí un flujo de integración continua e hice TDD en el dominio para reducir la probabilidad de errores. Realice tres veces este proyecto. Primero con JavaScript y luego con TypeScript creando una arquitectura limpia. Esta es la tercera vez.
+Escribí un documento de producto para guiar el desarrollo, seguí un flujo de integración continua e hice TDD en el dominio para reducir la probabilidad de errores. Realice tres veces este proyecto, primero con JavaScript y luego con TypeScript creando una arquitectura limpia, esta sería la tercera vez.
 
-Utilice TypeScript, CSS, React y Vitest.
+Utilice TypeScript, CSS, React, Vitest y Docusaurus.
 
 [Web](https://cm-boar.netlify.app/) - [Repositorio](https://github.com/CiroMirkin/Boar)
 
 ## Educación
 
-Estudio de forma autodidacta hace +3 años obteniendo resultados.
+Estudio de forma autodidacta hace +3 años obteniendo buenos resultados.
 
-El primer año aprendí JavaScript y desarrollé proyectos. En el segundo estudié TypeScript y React, arquitectura y diseño de software.
+Programo en JavaScript y TypeScript, estudié arquitectura y diseño de software al igual que desarrollé proyectos.
 
-Al estudiar teoría escribo un apunte, mínimo uno por mes. Público [los apuntes](https://github.com/CiroMirkin/Apuntes) en GitHub.
+Escribo un apunte teórico por mes y el público en [GitHub](https://github.com/CiroMirkin/Apuntes).
 
 ### Libros leídos y estudiados
 
@@ -43,7 +43,7 @@ Al estudiar teoría escribo un apunte, mínimo uno por mes. Público [los apunte
 
 ## Habilidades
 
-JavaScript - TypeScript - React - Git - GitHub - HTML - CSS - Vitest - Jest - Figma
+JavaScript - TypeScript - React - Git - GitHub - HTML - CSS - SQL - Jest - Vitest - Figma
 
 Diseño de software - Arquitectura - Pragmatismo
 
