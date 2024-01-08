@@ -13,15 +13,15 @@ Juego web de memoria. Puedes jugar con varias temáticas las veces que quieras s
 
 Desarrolle mi propia REST API para separar las temáticas del juego buscando que los cambios en estas no obliguen a un nuevo despliegue del juego. 
 
-Utilice TypeScript, HTML, CSS y el patrón arquitectónico MVC.
+Utilice TypeScript, HTML, CSS y el patrón MVC.
 
 [Web](https://cm-memotest.netlify.app/) - [Repositorio](https://github.com/CiroMirkin/memotest_TS)
 
 ### Boar
 
-Aplicación web para gestionar tareas en tu trabajo como Trello. La aplicación puede adaptarse a su forma de trabajo. 
+Aplicación web para gestionar tareas como Trello que puede adaptarse a la forma de trabajo del usuario. 
 
-Escribí un documento de producto para guiar el desarrollo, seguí un flujo de integración continua e hice TDD en el dominio para reducir la probabilidad de errores. Realice tres veces este proyecto, primero con JavaScript y luego con TypeScript creando una arquitectura limpia, esta sería la tercera vez.
+Al iniciar el proyecto escribí una lista de características y una descriptción de la aplicaión para guiar su desarrollo, seguí un flujo de integración continua, programe pruebas unitarias para reducir errores y documente el código.
 
 Utilice TypeScript, CSS, React, Vitest y Docusaurus.
 
