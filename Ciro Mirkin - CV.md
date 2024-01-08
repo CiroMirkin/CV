@@ -31,9 +31,7 @@ Utilice TypeScript, CSS, React, Vitest y Docusaurus.
 
 Estudio de forma autodidacta hace +3 años obteniendo buenos resultados.
 
-Programo en JavaScript y TypeScript, estudié arquitectura y diseño de software al igual que desarrollé proyectos.
-
-Escribo un apunte teórico por mes y el público en [GitHub](https://github.com/CiroMirkin/Apuntes).
+Escribo un articulo teórico todos los meses y el público en [GitHub](https://github.com/CiroMirkin/Apuntes), con estos articulos amplio y refuerzo mis conocimientos.
 
 ### Libros leídos y estudiados
 
