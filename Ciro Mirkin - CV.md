@@ -3,7 +3,7 @@ ciromirkin@gmail.com - [LinkedIn](https://www.linkedin.com/in/ciro-mirkin-775a85
 # Ciro Mirkin
 ## Desarrollador web Front-End
 
-+3 años de experiencia creando aplicaciones web. Tengo en cuenta los objetivos del cliente al resolver problemas. Defino opciones apoyándome en principios de diseño buscando la mejor solución acorde al contexto.
++3 años de experiencia creando aplicaciones web y desarrollando proyectos. Tengo en cuenta los objetivos del cliente al resolver problemas. Defino opciones apoyándome en principios de diseño buscando la mejor solución acorde al contexto.
 
 ## Experiencia
 
@@ -21,7 +21,7 @@ Utilice TypeScript, HTML, CSS y el patrón MVC.
 
 Aplicación web para gestionar tareas como Trello que puede adaptarse a la forma de trabajo del usuario. 
 
-Al iniciar el proyecto escribí una lista de características y una descriptción de la aplicaión para guiar su desarrollo, seguí un flujo de integración continua, programe pruebas unitarias para reducir errores y documente el código.
+Al iniciar el proyecto escribí una lista de características y una descriptción de la aplicaión para guiar su desarrollo, seguí un flujo de integración continua con iteraciones de un dia, programe pruebas unitarias para reducir errores y documente el código.
 
 Utilice TypeScript, CSS, React, Vitest y Docusaurus.
 
