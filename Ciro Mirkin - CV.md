@@ -45,7 +45,7 @@ Escribo un apunte teórico por mes y el público en [GitHub](https://github.com/
 
 JavaScript - TypeScript - React - Git - GitHub - HTML - CSS - SQL - Jest - Vitest - Figma
 
-Diseño de software - Arquitectura - Pragmatismo
+Diseño de software - Pragmatismo
 
 ## Idiomas
 
