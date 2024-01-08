@@ -1,4 +1,4 @@
-ciromirkin@gmail.com - [LinkedIn](https://www.linkedin.com/in/ciro-mirkin-775a85278) - [GitHub](https://github.com/CiroMirkin)
+ciromirkin@gmail.com - [LinkedIn](https://www.linkedin.com/in/ciro-mirkin-775a85278) - [Portafolio](https://CiroMirkin.github.io/Portfolio)
 
 # Ciro Mirkin
 ## Desarrollador web Front-End
@@ -43,7 +43,7 @@ Escribo un apunte teórico por mes y el público en [GitHub](https://github.com/
 
 ## Habilidades
 
-JavaScript - TypeScript - React - Git - GitHub - HTML - CSS - SQL - Jest - Vitest - Figma
+JavaScript - TypeScript - React - Git - GitHub - HTML - CSS - Jest - Vitest - Figma
 
 Diseño de software - Pragmatismo
 
