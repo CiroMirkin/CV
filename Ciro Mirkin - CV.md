@@ -21,7 +21,7 @@ Utilice TypeScript, HTML, CSS y el patrón MVC.
 
 Aplicación web para gestionar tareas como Trello que puede adaptarse a la forma de trabajo del usuario. 
 
-Al iniciar el proyecto escribí una lista de características y una descriptción de la aplicaión para guiar su desarrollo, seguí un flujo de integración continua con iteraciones de un dia, programe pruebas unitarias para reducir errores y documente el código.
+Al iniciar el proyecto escribí una lista de características y una descripción de la aplicación para guiar su desarrollo, seguí un flujo de integración continua con iteraciones de un dia, programe pruebas unitarias para reducir errores y documente el código.
 
 Utilice TypeScript, CSS, React, Vitest y Docusaurus.
 
@@ -31,11 +31,11 @@ Utilice TypeScript, CSS, React, Vitest y Docusaurus.
 
 Estudio de forma autodidacta hace +3 años obteniendo buenos resultados.
 
-Escribo un articulo teórico todos los meses y el público en [GitHub](https://github.com/CiroMirkin/Apuntes), con estos articulos amplio y refuerzo mis conocimientos.
+Escribo un articulo teórico todos los meses y el público en [GitHub](https://github.com/CiroMirkin/Apuntes), con estos artículos amplio y refuerzo mis conocimientos.
 
 ### Libros leídos y estudiados
 
-* Código limpio, Desarrollo ágil esencial y Arquitectura limpia de Rober C.Martin.
+* Código limpio, Desarrollo ágil esencial y Arquitectura limpia de Robert C.Martin.
 * El programador pragmático de David Thomas y Andrew Hunt.
 * Código sostenible de Carlos Blé Jurado.
 
